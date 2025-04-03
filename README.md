@@ -14,5 +14,5 @@ git init
 git add .
 git commit -m "Subiendo portafolio digital"
 git branch -M main
-git remote add origin https://github.com/[TU-USUARIO](https://portaporlio-joseartiles.my.canva.site/)/portafolio-digital.git
+git remote add origin https://github.com/(https://portaporlio-joseartiles.my.canva.site/)/portafolio-digital.git
 git push -u origin main
