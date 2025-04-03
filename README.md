@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 --->
 git init
 git add .
-git commit -m "Subiendo portafolio digital"
+git commit -m (https://portaporlio-joseartiles.my.canva.site/)
 git branch -M main
 git remote add origin https://github.com/portafolio-digital.git
 git push -u origin main
